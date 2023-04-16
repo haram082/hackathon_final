@@ -1,0 +1,17 @@
+html {
+    height: 70%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgb(39, 42, 74), rgb(177, 162, 221));
+
+    color:rgb(255, 210, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
